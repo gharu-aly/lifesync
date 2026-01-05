@@ -1,0 +1,8 @@
+{
+  "name": "LifeSync AI - Your Integrated Life Management Assistant",
+  "description": "A comprehensive personal management app integrating health, study, work, and finance with AI-driven insights and multi-dimensional analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
